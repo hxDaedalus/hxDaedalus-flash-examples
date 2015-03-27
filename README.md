@@ -12,6 +12,3 @@ You can view html similar versions to the flash ones here:
 [Maze](http://rawgit.com/hxDaedalus/hxDaedalus-javascript-examples/master/hxDaedalus-javascript-examples/web/GridMazeDemo.html)
 
 Licence is MIT.
-
-
-Note: Currently refactoring out js and swing content from this repository

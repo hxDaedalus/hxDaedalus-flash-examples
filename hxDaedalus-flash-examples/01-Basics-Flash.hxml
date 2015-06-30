@@ -1,8 +1,9 @@
 #mac
--cmd mkDir -p bin
+#-cmd mkDir -p bin
 --next
 
 -lib hxDaedalus
+-lib hxPixels
 -cp src/
 -main Basics01
 -swf-version 11.2
@@ -12,6 +13,6 @@
 #-D showVerticesIndices
 -debug
 #mac
--cmd open bin/Basics.swf
+#-cmd open bin/Basics.swf
 #win
-#-cmd start bin/Basics.swf
+-cmd start bin/Basics.swf

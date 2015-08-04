@@ -1,4 +1,5 @@
 -lib hxDaedalus
+-lib hxPixels
 -cp src/
 -main FromBitmap02
 -swf-version 11.2
@@ -8,6 +9,6 @@
 #-D showVerticesIndices
 -debug
 #mac
--cmd open bin/FromBitmap.swf
+#-cmd open bin/FromBitmap.swf
 #win
-#-cmd start bin/FromBitmap.swf
+-cmd start bin/FromBitmap.swf

@@ -1,4 +1,5 @@
 -lib hxDaedalus
+-lib hxPixels
 -cp src/
 -main Pathfinding03
 -swf-version 11.2
@@ -8,6 +9,6 @@
 #-D showVerticesIndices
 -debug
 #mac
--cmd open bin/Pathfinding.swf
+#-cmd open bin/Pathfinding.swf
 #win
-#-cmd start bin/Pathfinding.swf
+-cmd start bin/Pathfinding.swf

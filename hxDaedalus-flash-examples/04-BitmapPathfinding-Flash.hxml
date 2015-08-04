@@ -1,4 +1,5 @@
 -lib hxDaedalus
+-lib hxPixels
 -cp src/
 -cp ../../src/
 -main BitmapPathfinding04
@@ -9,6 +10,6 @@
 #-D showVerticesIndices
 -debug
 #mac
--cmd open bin/BitmapPathfinding.swf
+#-cmd open bin/BitmapPathfinding.swf
 #win
-#-cmd start bin/BitmapPathfinding.swf
+-cmd start bin/BitmapPathfinding.swf

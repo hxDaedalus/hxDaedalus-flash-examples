@@ -1,0 +1,9 @@
+-cmd 01-Basics-Flash.hxml
+--next
+-cmd 02-FromBitmap-Flash.hxml
+--next
+-cmd 03-Pathfinding-Flash.hxml
+--next
+-cmd 04-BitmapPathfinding-Flash.hxml
+--next
+-cmd 05-GridMaze-Flash.hxml
